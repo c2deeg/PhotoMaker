@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/project"
+        android:title="Project"
+        android:icon="@drawable/project"/>
+
+
+
+    <item
+        android:icon="@drawable/project"
+        android:title=""/>
+    <item
+        android:id="@+id/plan"
+        android:icon="@drawable/note"
+        android:title="Plan"/>
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/biosite"
+        android:title="Bio Site"/>
+</menu>
